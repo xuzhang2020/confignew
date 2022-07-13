@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: user-server
+
+server:
+  port: 0
+
+user:
+  role: PROD-User
